@@ -24,3 +24,23 @@
 - An expression returns any kind of value
 - A Predicate returns true or false only
 - For instance, Camel supports xpath, mven, ognl, python, ruby, PHP, JavaScript, SpEL, Groovy and so on as expression languages
+
+### Data formats and type conversions ###
+
+- Camel can marshal and unmarshal a message in a given format
+- Supports JVM standard serialization
+- Supports Avro, JSON, protobuf, JAX-B, XmlBeans, XStream, JiBX, SOAP and so on
+- Allows a transformation from one format to another
+- We can just write our own converter. IT's a simple POJO to implement
+
+### Lightweight and differente deployments topologies ###
+
+- Camel itself is very light. The Camel core is only around 2MB and contains everything required to run Camel
+- You can install and use only what you need
+- Moreover, Camel is not tied with an container for deployment. You can use:
+  - Server Applications as JBoss, WebSphere, WebLogic and son on
+  - Web Container, such as Apache Tomcat
+  - An OSGi container, such as Apache Karaf
+  - A standalone application using frameworks as Spring
+  
+
