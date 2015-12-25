@@ -43,4 +43,8 @@
   - An OSGi container, such as Apache Karaf
   - A standalone application using frameworks as Spring
   
+### Quick prototyping and testing support ###
 
+- Camel supports mock for another system or endpoint
+- Mocking support is directly part of the Camel core
+- We can use a continuous integration plataform with Camel
