@@ -12,3 +12,15 @@
   - You can transport any kind of messages in Camel (payload-agnostic)
   - JBI is not very flexible
   
+### Components and bean support ###
+
+- A lot of connectivity components: FTP, HTTP, JMX, JMS, WebServices, etc
+- Components applying **transformation** or **validation**
+- Camel supports IoC frameworks as Spring or Blueprint
+
+### Predicates and Expressions ###
+
+- The rule for mediation (transformation or validation) is called **expression**
+- An expression returns any kind of value
+- A Predicate returns true or false only
+- For instance, Camel supports xpath, mven, ognl, python, ruby, PHP, JavaScript, SpEL, Groovy and so on as expression languages
