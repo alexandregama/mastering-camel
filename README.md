@@ -1,2 +1,2 @@
-# mastering-camel
+# Mastering Camel
 Mastering Camel
