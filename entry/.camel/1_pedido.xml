@@ -10,7 +10,7 @@
                 <codigo>ARQ</codigo>
                 <titulo>Introdução à Arquitetura e Design de Software</titulo>
                 <tituloCurto>Arquitetura Java</tituloCurto>
-                <nomeAutor>Sergio Lopes, Paulo Silveira, Guilherme Silveira, Nico Steppat, outros</nomeAutor>
+                <nameAuthor>Sergio Lopes, Paulo Silveira, Guilherme Silveira, Nico Steppat, outros</nameAuthor>
                 <valorEbook>29.90</valorEbook>
                 <valorImpresso>79.90</valorImpresso>
             </livro>
@@ -22,4 +22,4 @@
         <titular>Edgar  Brião</titular>
         <email-titular>edgar.b@abc.com</email-titular>
     </pagamento>
-</pedido>
+</pedido>07/03/2016From day: 07/03/2016
