@@ -10,7 +10,7 @@
                 <codigo>TDD</codigo>
                 <titulo>Test-Driven Development: Teste e Design no Mundo Real</titulo>
                 <tituloCurto>TDD</tituloCurto>
-                <nomeAutor>Mauricio Aniche</nomeAutor>
+                <nameAuthor>Mauricio Aniche</nameAuthor>
                 <valorEbook>29.90</valorEbook>
                 <valorImpresso>59.90</valorImpresso>
             </livro>
@@ -22,7 +22,7 @@
                 <codigo>ARQ</codigo>
                 <titulo>Introdução à Arquitetura e Design de Software</titulo>
                 <tituloCurto>Arquitetura Java</tituloCurto>
-                <nomeAutor>Sergio Lopes, Paulo Silveira, Guilherme Silveira, Nico Steppat, outros</nomeAutor>
+                <nameAuthor>Sergio Lopes, Paulo Silveira, Guilherme Silveira, Nico Steppat, outros</nameAuthor>
                 <valorEbook>29.90</valorEbook>
                 <valorImpresso>79.90</valorImpresso>
             </livro>
