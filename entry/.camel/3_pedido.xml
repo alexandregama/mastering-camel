@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pedido>
-    <id>4298608</id>
-    <dataCompra>2013-12-05T18:10:07.963-02:00</dataCompra>
+    <data>2013-12-05T18:10:07.963-02:00</data>
     <itens>
-         <item>
-            <formato>IMPRESSO</formato>
+        <item>
+            <formato>EBOOK</formato>
             <quantidade>1</quantidade>
             <livro>
-                <codigo>TDD</codigo>
-                <titulo>Test-Driven Development: Teste e Design no Mundo Real</titulo>
-                <tituloCurto>TDD</tituloCurto>
-                <nameAuthor>Mauricio Aniche</nameAuthor>
+                <codigo>SOA</codigo>
+                <titulo>SOA aplicado: Integrando com web services e além</titulo>
+                <tituloCurto>SOA</tituloCurto>
+                <nomeAutor>Alexandre Saudate</nomeAutor>
                 <valorEbook>29.90</valorEbook>
                 <valorImpresso>59.90</valorImpresso>
             </livro>
@@ -22,16 +21,14 @@
                 <codigo>ARQ</codigo>
                 <titulo>Introdução à Arquitetura e Design de Software</titulo>
                 <tituloCurto>Arquitetura Java</tituloCurto>
-                <nameAuthor>Sergio Lopes, Paulo Silveira, Guilherme Silveira, Nico Steppat, outros</nameAuthor>
+                <nomeAutor>Paulo Silveira</nomeAutor>
                 <valorEbook>29.90</valorEbook>
                 <valorImpresso>79.90</valorImpresso>
             </livro>
         </item>
     </itens>
     <pagamento>
-        <status>CONFIRMADO</status>
-        <valor>89.80</valor>
-        <titular>Tatiana Geraldina Granjeiro</titular>
-        <email-titular>tatgran@zxc.com</email-titular>
+        <status>CANCELADO</status>
+        <valor>59.80</valor>
     </pagamento>
-</pedido>07/03/2016From day: 07/03/2016
+</pedido>
